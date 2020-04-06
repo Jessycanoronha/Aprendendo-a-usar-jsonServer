@@ -1,0 +1,13 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "nome": "Angular",
+      "author": "typicode"
+    },
+    {
+      "nome": "Java",
+      "id": 2
+    }
+  ]
+}
